@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aliel Jacob 
+# 👋 Hi, I’m Jacob 
 
 I'm a student at the University of Toronto, aspiring to be a developer ✨
 <!---
