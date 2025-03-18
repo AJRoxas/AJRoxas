@@ -6,6 +6,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliel-jacob-roxas/)
 
+👷 Current Project 👷
+
+![dodo](https://github.com/AJRoxas/dodo) - A personalized academic platform that makes it effortless to track grades 
+
 ## Languages
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
