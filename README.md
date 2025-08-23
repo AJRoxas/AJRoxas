@@ -2,7 +2,7 @@
 
 ✨ Interested in Software Development ✨
 
-📫 alieljacob.roxas@mail.utoronto.ca
+📫 alieljacob.roxas@alumni.utoronto.ca
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliel-jacob-roxas/)
 
