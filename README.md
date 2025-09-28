@@ -1,6 +1,6 @@
 <div align=center>
 <h1>😁 Welcome 😁</h1> 
-<p><i>Hi!👋 You have somehow stumbled onto my GitHub profile, so ... congrats 🎉</i></p>
+<p>Hi!👋 <i>You have somehow stumbled onto my GitHub profile, so ... congrats 🎉</i></p>
 <p>✨ I have an interest in Software Development and Artifical Intelligence ✨</p>
 <p>
   <a href="mailto:alieljacob.roxas@alumni.utoronto.ca"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook1.svg"></a>
@@ -10,7 +10,7 @@
 
   
 <h2>👷 Current Projects 👷</h2>
-<p> 🚨 <i>All my project are in indefinite hiatus since March 2025</i> 🚨 </p>
+<p> 🚨 <i>All projects are in indefinite hiatus since March 2025</i> 🚨 </p>
 <a href="https://github.com/AJRoxas/dodo">dodo</a> - A personalized academic platform that makes it effortless to track grades
 
 <h2>💪 Skills 💪</h2>
