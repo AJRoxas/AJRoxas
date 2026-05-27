@@ -14,7 +14,8 @@
 <a href="https://github.com/AJRoxas/portfolio">portfolio</a> - My personal website, I should have made one a while ago 
 
 <a href="https://github.com/AJRoxas/dodo">dodo</a> - A personalized academic platform that makes it effortless to track grades 
-🚨 <i>in hiatus since March 2025 ... but trying to get it up and running before the end of 2026</i> 🚨
+
+🚨 <i>dodo is in hiatus, hoping to pick it up again someday!</i> 🚨
 
 <h2>💪 Skills 💪</h2>
 
