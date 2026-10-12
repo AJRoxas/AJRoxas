@@ -11,7 +11,7 @@
   
 <h2>👷 Projects 👷</h2>
 
-<a href="https://github.com/AJRoxas/portfolio">portfolio</a> - My personal website, I should have made one a while ago 
+<a href="https://github.com/AJRoxas/ajroxas.github.io">Personal Site</a> - My personal website, I should have made one a while ago 
 
 <h2>💪 Skills 💪</h2>
 
