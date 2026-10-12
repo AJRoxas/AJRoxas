@@ -13,10 +13,6 @@
 
 <a href="https://github.com/AJRoxas/portfolio">portfolio</a> - My personal website, I should have made one a while ago 
 
-<a href="https://github.com/AJRoxas/dodo">dodo</a> - A personalized academic platform that makes it effortless to track grades 
-
-🚨 <i>dodo is in hiatus, hoping to pick it up again someday!</i> 🚨
-
 <h2>💪 Skills 💪</h2>
 
 <h3>Languages</h3>
@@ -73,13 +69,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<h3>🦤 Dodo Specific 🦤</h3>
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 </div>
 
